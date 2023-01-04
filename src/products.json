@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Güç Yüzüğü",
+        "price" :40,
+        "img" : "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSIeiXVcIzSE2DSuLn5j7vPzY7CR5_J0KT9Sz_sFX3c46IjTcsY0_jnSZ3FFmeRcBe-KOZ-J7Rr9fphctjHqel6SWVeFfOv&usqp=CAE"
+    },
+    
+    {
+        "id":2,
+        "name":"Gandalf",
+        "price" :50,
+        "img" :"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRDL_An0v4NxiHcAbX5XutkShnz2ZZsYEpIu-tRB4tGXNjzRMCdjregGudG5VLsXEvurIxZXx1baZ1US8a_uLzx6kPuXaC3-GrkkhITVSz7QCmgwr4JDXJL&usqp=CAE"
+    },
+    {
+        "id":3,
+        "name":"Sauron Figür",
+        "price" :45,
+        "img" : "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTN38UCJkRsHHd-PnN1Sdpq3yhhWhwCqb17DauiFNk6OovxWi7lMMw_dT2-9k-g8VzP26vqHdy0Tch7vYjk57G-T_bbWBrwDPU9QIdCjtc&usqp=CAE"
+    },
+    {
+        "id":4,
+        "name":"Nazgul",
+        "price" :60,
+        "img" : "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9G5Hhks65Q7OsorcMVwwVjo5YbUVhesqFgUHNYLjMyF1HWdkidIaQV3uvj4rzWY9qx7EHCo1sOsXPV2hq4kU0WujxNxdbGb5Ls7W3F1vjTmn3ei2dWhlT&usqp=CAE"
+    },{
+        "id":5,
+        "name":"The Witch King",
+        "price" :45,
+        "img" : "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQSyOGOrEtcmBElmEwZn5AFjJa0wChMjH-1ebMtqWm89eRBSyPDaoiLlose10YJwkcNqYhoRKX4aw84SrvVOmXzzMdHh-jjc4obcJQhIO640Yk886XbfjIUHA&usqp=CAE"
+    },
+    {
+        "id":6,
+        "name":"Balrog",
+        "price" :60,
+        "img" : "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0vCcNP_GmSUDlNylrCNmmxuwCgA11HGsqS34Y0j13ELmf4T0ORdBNXmgkI79KE8dkJ1QHB3kd8J0BImhtRfzLRIsE5qNs&usqp=CAE"
+    },
+    {
+        "id":7,
+        "name":"Sauron",
+        "price" :60,
+        "img" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1gM33ewRwzIKGAaDw7n3LN3H14gWPyzcrF-vqaN6qwXhxEXSbNU-WcGmTS4j7GLEv2kJtW7egh27TubxYQzWFOI8uixTgjeWkYN9uE9IaA7jsjg6dIbFd&usqp=CAE"
+    },
+    {
+        "id":8,
+        "name":"Balrog VS Gandalf",
+        "price" :60,
+        "img" : "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSuI_2wLdFeSnJSdrKNpBcnKaEcUvfx7LsXEyoeVSU7fIVnwWDgIjmK-s9KhlisTyrINjs4Sfloa0q8qyECGEAOeFiyx0Xd3WasVmFsfxSEBP85JbEof7XBaw&usqp=CAE"
+    }
+    ]
